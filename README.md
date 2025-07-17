@@ -1,16 +1,7 @@
 # Hi, I'm Anand Pandey!
 
 I'm a passionate **Frontend Developer** who loves crafting visually appealing and performant web applications. My primary stack includes **React**, **Tailwind CSS**, **JavaScript**, and **Node.js**. I'm also exploring full-stack capabilities with **MongoDB**, **Express.js**, and **MySQL**. I enjoy solving problems, building responsive UI, and learning new technologies!
-
 ---
-
-## Connect with Me
-
-[Portfolio](https://anandpandey2005.netlify.app)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-
----
-
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
