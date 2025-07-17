@@ -1,4 +1,4 @@
-# Hi, I'm [Anand Pandey](https://anandpandet2005.netlify.app)!
+# Hi, I'm [Anand Pandey !](https://anandpandet2005.netlify.app)
 
 I'm a passionate **Frontend Developer** who loves crafting visually appealing and performant web applications. My primary stack includes **React**, **Tailwind CSS**, **JavaScript**, and **Node.js**. I'm also exploring full-stack capabilities with **MongoDB**, **Express.js**, and **MySQL**. I enjoy solving problems, building responsive UI, and learning new technologies!
 ---
