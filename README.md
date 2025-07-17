@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Anand Pandey!
 
-## 🚀 About Me
 - 🔭 I’m currently working on: [Your Project Name or Topic]
 - 🌱 I’m currently learning: MERN Stack / Next.js / TypeScript
 - 💬 Ask me about: JavaScript, Node.js, MongoDB
@@ -17,13 +16,12 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 
----
-
-## 📈 GitHub Stats
-![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandpandey&show_icons=true&theme=radical)
+--
+## 🔗 Project Deliver to clinets
+<a>anushkakukreja.com</a>
 
 ---
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://anandpandey2005.netlify.app)
