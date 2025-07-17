@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anand Pandey!
+# Hi, I'm Anand Pandey!
 
 I'm a passionate **Frontend Developer** who loves crafting visually appealing and performant web applications. My primary stack includes **React**, **Tailwind CSS**, **JavaScript**, and **Node.js**. I'm also exploring full-stack capabilities with **MongoDB**, **Express.js**, and **MySQL**. I enjoy solving problems, building responsive UI, and learning new technologies!
 
@@ -7,21 +7,17 @@ I'm a passionate **Frontend Developer** who loves crafting visually appealing an
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[🌐 Portfolio Website](https://anandpandey2005.netlify.app)
+[🌐 Portfolio](https://anandpandey2005.netlify.app)
 
 ---
 
 ## 🚀 Tech Stack
-
-### 🖥️ Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-
-### ⚙️ Backend & Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -37,12 +33,6 @@ I'm a passionate **Frontend Developer** who loves crafting visually appealing an
 - 🔗 [OMPkg Automation](https://ompkgautomation.com) — Business automation web solution  
 - 🔗 [Anushka Kukreja Portfolio](https://anushkakukreja.com) — Stylish and responsive personal portfolio  
 
----
-
-## 📈 GitHub Stats (Optional)
-
-![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
----
+##---
 
 _“Building with logic, designing with passion.”_
