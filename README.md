@@ -4,14 +4,14 @@ I'm a passionate **Frontend Developer** who loves crafting visually appealing an
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
-[🌐 Portfolio](https://anandpandey2005.netlify.app)
+[Portfolio](https://anandpandey2005.netlify.app)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
@@ -27,7 +27,7 @@ I'm a passionate **Frontend Developer** who loves crafting visually appealing an
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
-## 📦 Delivered Projects
+## Delivered Projects
 - [Anushka Kukreja Portfolio](https://anushkakukreja.com) — Stylish and responsive personal portfolio  
 - [OMPkg Automation](https://ompkgautomation.com) — Business automation web solution  
 
