@@ -6,8 +6,8 @@ I'm a passionate **Frontend Developer** who loves crafting visually appealing an
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 [🌐 Portfolio](https://anandpandey2005.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 
 ---
 
@@ -27,12 +27,9 @@ I'm a passionate **Frontend Developer** who loves crafting visually appealing an
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
-
 ## 📦 Delivered Projects
+- [Anushka Kukreja Portfolio](https://anushkakukreja.com) — Stylish and responsive personal portfolio  
+- [OMPkg Automation](https://ompkgautomation.com) — Business automation web solution  
 
-- 🔗 [OMPkg Automation](https://ompkgautomation.com) — Business automation web solution  
-- 🔗 [Anushka Kukreja Portfolio](https://anushkakukreja.com) — Stylish and responsive personal portfolio  
-
-##---
-
+---
 _“Building with logic, designing with passion.”_
