@@ -5,6 +5,7 @@ I'm a passionate **Frontend Developer** who loves crafting visually appealing an
 ## Tech Stack
 ![cpp](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![typeScript](https://img.shields.io/badge/-typeScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
