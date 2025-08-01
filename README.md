@@ -3,7 +3,7 @@
 I'm a passionate **Frontend Developer** who loves crafting visually appealing and performant web applications. My primary stack includes **React**, **Tailwind CSS**, **JavaScript**, and **Node.js**. I'm also exploring full-stack capabilities with **MongoDB**, **Express.js**, and **MySQL**. I enjoy solving problems, building responsive UI, and learning new technologies!
 ---
 ## Tech Stack
-![cpp](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![cpp](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![typeScript](https://img.shields.io/badge/-typeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
