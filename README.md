@@ -20,9 +20,4 @@ I'm a passionate **Frontend Developer** who loves crafting visually appealing an
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
-## Delivered Projects
-- [Anushka Kukreja Portfolio](https://anushkakukreja.com) — Stylish and responsive personal portfolio  
-- [OMPkg Automation](https://ompkgautomation.com) — Business automation web solution  
-
----
 _“Building with logic, designing with passion.”_
