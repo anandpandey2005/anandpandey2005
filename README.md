@@ -1,6 +1,7 @@
 # Hi, I'm [Anand Pandey !](https://anandpandey2005.netlify.app)
 
-I'm a passionate **Frontend Developer** who loves crafting visually appealing and performant web applications. My primary stack includes **React**, **Tailwind CSS**, **JavaScript**, and **Node.js**. I'm also exploring full-stack capabilities with **MongoDB**, **Express.js**, and **MySQL**. I enjoy solving problems, building responsive UI, and learning new technologies!
+I am a passionate Full Stack Developer. I thrive on building efficient, scalable applications and am dedicated to mastering the full software development lifecycle from clean, modular frontend design to robust backend architecture.
+My approach to coding is driven by a focus on problem-solving, clean code principles, and a desire to build software that creates real value for users. Whether I am architecting a new database structure, optimizing server-side logic, or refining the user interface, I am constantly exploring new technologies to keep my workflow efficient.!
 ---
 ## Tech Stack
 ![cpp](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
