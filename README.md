@@ -1,11 +1,3 @@
-<div align="center">
-
-## Full Stack Developer Builds Empire in Bits & Bytes
-### *One Young Engineer's Quest to Master the Entire Development Stack*
-
-— ✦ —
-
-</div>
 
 ---
 
